@@ -1,0 +1,14 @@
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\bin\Debug\net8.0\KasalXona.exe
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\bin\Debug\net8.0\KasalXona.deps.json
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\bin\Debug\net8.0\KasalXona.runtimeconfig.json
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\bin\Debug\net8.0\KasalXona.dll
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\bin\Debug\net8.0\KasalXona.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.AssemblyInfoInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.AssemblyInfo.cs
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.csproj.CoreCompileInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.dll
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\refint\KasalXona.dll
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\KasalXona.genruntimeconfig.cache
+C:\Users\manzura\OneDrive\Рабочий стол\KasalXona\obj\Debug\net8.0\ref\KasalXona.dll
